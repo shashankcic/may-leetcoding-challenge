@@ -10,4 +10,4 @@ My solutions to the problems in the 30 Days of Code, May Leetcoding challenge.
 7. Cousins in Binary Tree - C++ Soln
 8. Check If It Is a Straight Line - C++ Soln
 9. Valid Perfect Square - C++ Soln
-10. Find the Town Judge - C++
+10. Find the Town Judge - C++ Soln
