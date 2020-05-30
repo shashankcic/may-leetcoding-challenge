@@ -13,4 +13,4 @@ My solutions to the problems in the 30 Days of Code, May Leetcoding challenge.
 10. Find the Town Judge - C++ Soln
 11. Flood Fill - C++ Soln
 12. Single Element in a Sorted Array - C++ Soln
-13. Remove K Digits - C++
+13. Remove K Digits - C++ Soln
